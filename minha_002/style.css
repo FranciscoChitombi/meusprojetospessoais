@@ -14,8 +14,20 @@ header{
 }
 
 header > h1{
-    padding-bottom: 20px;
-    
+    padding-bottom: 20px; 
+}
+
+h2{
+   text-align: center;
+   padding: 5px;
+}
+
+h3{
+    padding-bottom: 5px;
+}
+
+p{
+    padding-bottom: 5px;
 }
 
 nav{
@@ -34,8 +46,15 @@ main p{
     
 }
 
+
+
 a {
     margin-right: 30px;
     margin: 5px;
     text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    
 }
